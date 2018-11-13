@@ -1,2 +1,3 @@
 # hello-world
-first repository
+
+Hi this is Priyanka. I like Python and Django.
